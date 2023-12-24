@@ -4,7 +4,7 @@ import Topbar from "./Topbar";
 
 const Index = () => {
   return (
-    <div style={{body:0}}>
+    <div>
       <Topbar/>
       <Navbar/>
     </div>

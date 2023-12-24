@@ -7,6 +7,7 @@ const Navbar = () => {
     <div
       id="navbar"
       style={{
+        body:0,
         width: "100%",
         height: "100px",
         backgroundColor: "black",

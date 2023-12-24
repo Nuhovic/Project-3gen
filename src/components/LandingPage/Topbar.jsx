@@ -7,7 +7,7 @@ import Stack from '@mui/material/Stack';
 
 const Topbar = () => {
   return (
-    <div id="top-bar" style={{width:"100%",height:"40px",backgroundColor:"rgb(60,60,60)",display:"flex",}}>
+    <div id="top-bar" style={{width:"100%",height:"40px",backgroundColor:"rgb(60,60,60)",display:"flex",body:0}}>
       <div id='levi-top-bar' style={{width:"33%",height:"40px",display:"flex",justifyContent:"center",alignItems:"center"}}> 
       <FacebookIcon/>
       <Instagram/>
